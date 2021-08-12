@@ -1,0 +1,27 @@
+.transition {
+    transition-property: all;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in;
+}
+
+.transition:hover {
+    transform: scale(1.062);
+}
+
+nav img {
+    width: 100px;
+}
+
+#carouselExampleIndicators {
+    background-color: antiquewhite;
+}
+
+.designItem {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#cat h4 {
+    border-bottom: 2px solid red;
+}
